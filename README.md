@@ -27,5 +27,5 @@ The dashboard includes visuals for:
 
 ## 🧑‍💻 Author
 **Erik Ellinger** – Data Analyst passionate about sports analytics  
-Connect with me on [LinkedIn](www.linkedin.com/in/erik-ellinger)
+Connect with me on [LinkedIn](linkedin.com/in/erik-ellinger)
 
